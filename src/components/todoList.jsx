@@ -67,7 +67,7 @@ const ToDoList = () => {
           className="bg-green-500 text-white p-2 ml-2"
           onClick={handleSortTasks}
         >
-          Sort
+          Sort Item
         </button>
       </div>
       <div>
